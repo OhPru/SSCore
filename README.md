@@ -1,0 +1,2 @@
+# SSCore
+ScreenShare Plugin
